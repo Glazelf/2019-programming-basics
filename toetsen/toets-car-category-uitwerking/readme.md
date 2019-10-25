@@ -75,9 +75,9 @@ Nr | Leeropbrengsten | Punten
 Beoordeling | Cijfer | Aantal punten
 ---|---|---
 onvoldoende | 4 | < 60
-matig | 5 | 60 tot 70
-voldoende | 6 | 70 tot 80
-ruim voldoende | 7 | 80 tot 85
+matig | 5 | 60 - 70
+voldoende | 6 | 70 - 80
+ruim voldoende | 7 | 80 - 85
 goed | 8 | 85 - 90
 zeer goed | 9 | 90 - 95
 uitmuntend | 10 | 95 - 100
